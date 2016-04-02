@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>我的大学</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-02T06:50:22.214Z</updated>
+  <updated>2016-04-02T09:54:48.468Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>xo</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://yoursite.com/2016/04/02/My-New-Post/"/>
+    <id>http://yoursite.com/2016/04/02/My-New-Post/</id>
+    <published>2016-04-02T09:52:44.000Z</published>
+    <updated>2016-04-02T09:54:48.468Z</updated>
+    
+    <content type="html">&lt;p&gt;我觉得我应该去当个教授 &lt;/p&gt;
+&lt;p&gt;##excited！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我觉得我应该去当个教授 &lt;/p&gt;
+&lt;p&gt;##excited！&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
