@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-03T13:36:40.787Z</updated>
+  <updated>2016-04-03T13:41:56.150Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,27 +20,24 @@
     <link href="http://yoursite.com/2016/04/03/3%E6%9C%88%E6%80%BB%E7%BB%93/"/>
     <id>http://yoursite.com/2016/04/03/3月总结/</id>
     <published>2016-04-03T13:36:45.000Z</published>
-    <updated>2016-04-03T13:36:40.787Z</updated>
+    <updated>2016-04-03T13:41:56.150Z</updated>
     
     <content type="html">&lt;p&gt;第一篇月总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h1 id=&quot;近期总结&quot;&gt;&lt;a href=&quot;#近期总结&quot; class=&quot;headerlink&quot; title=&quot;近期总结&quot;&gt;&lt;/a&gt;近期总结&lt;/h1&gt;&lt;p&gt;&lt;em&gt;分为几部分：考研 课程 生活  ； 但是状态不好&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;现象&quot;&gt;&lt;a href=&quot;#现象&quot; class=&quot;headerlink&quot; title=&quot;现象&quot;&gt;&lt;/a&gt;现象&lt;/h2&gt;&lt;p&gt;###考研&lt;/p&gt;
-&lt;ul&gt;
+&lt;h2 id=&quot;现象&quot;&gt;&lt;a href=&quot;#现象&quot; class=&quot;headerlink&quot; title=&quot;现象&quot;&gt;&lt;/a&gt;现象&lt;/h2&gt;&lt;h3 id=&quot;考研&quot;&gt;&lt;a href=&quot;#考研&quot; class=&quot;headerlink&quot; title=&quot;考研&quot;&gt;&lt;/a&gt;考研&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;考研意志 动摇——在出国和找工作以及软微和经院徘徊&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;科目 都处于停滞状态——English看不下去 数学放水&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###课程&lt;/p&gt;
-&lt;ul&gt;
+&lt;h3 id=&quot;课程&quot;&gt;&lt;a href=&quot;#课程&quot; class=&quot;headerlink&quot; title=&quot;课程&quot;&gt;&lt;/a&gt;课程&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;上课 不认真听——玩手机&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;作业 不认真写——抄&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###生活&lt;/p&gt;
-&lt;ul&gt;
+&lt;h3 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerlink&quot; title=&quot;生活&quot;&gt;&lt;/a&gt;生活&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;情绪 波动比较多&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
@@ -49,8 +46,7 @@
 &lt;ul&gt;
 &lt;li&gt;爱好 围棋不怎么看 篮球没动过 书看了古龙（just for fun）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;##思考原因&lt;/p&gt;
-&lt;ul&gt;
+&lt;h2 id=&quot;思考原因&quot;&gt;&lt;a href=&quot;#思考原因&quot; class=&quot;headerlink&quot; title=&quot;思考原因&quot;&gt;&lt;/a&gt;思考原因&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;的确考研很枯燥&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;的确别的路很轻松&lt;/p&gt;
