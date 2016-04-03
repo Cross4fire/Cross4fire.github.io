@@ -36,7 +36,7 @@
     <link href="http://yoursite.com/2016/04/02/My-New-Post/"/>
     <id>http://yoursite.com/2016/04/02/My-New-Post/</id>
     <published>2016-04-02T09:52:44.000Z</published>
-    <updated>2016-04-02T09:54:48.468Z</updated>
+    <updated>2016-04-03T05:26:16.838Z</updated>
     
     <content type="html">&lt;p&gt;我觉得我应该去当个教授 &lt;/p&gt;
 &lt;p&gt;##excited！&lt;/p&gt;
@@ -50,6 +50,10 @@
     
     </summary>
     
+      <category term="excited" scheme="http://yoursite.com/categories/excited/"/>
+    
+    
+      <category term="foo" scheme="http://yoursite.com/tags/foo/"/>
     
   </entry>
   
@@ -58,7 +62,7 @@
     <link href="http://yoursite.com/2016/04/02/hello-world/"/>
     <id>http://yoursite.com/2016/04/02/hello-world/</id>
     <published>2016-04-02T06:50:22.210Z</published>
-    <updated>2016-04-02T06:50:22.214Z</updated>
+    <updated>2016-04-03T05:13:28.956Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -77,6 +81,12 @@
     
     </summary>
     
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="http://yoursite.com/tags/PS3/"/>
+    
+      <category term="Games" scheme="http://yoursite.com/tags/Games/"/>
     
   </entry>
   
