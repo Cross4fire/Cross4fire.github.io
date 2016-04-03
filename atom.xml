@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-02T11:41:39.479Z</updated>
+  <updated>2016-04-03T09:15:46.688Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,55 +16,79 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>excited</title>
-    <link href="http://yoursite.com/2016/04/02/excited/"/>
-    <id>http://yoursite.com/2016/04/02/excited/</id>
-    <published>2016-04-02T11:41:39.000Z</published>
-    <updated>2016-04-02T11:41:39.479Z</updated>
+    <title>生命在于折腾</title>
+    <link href="http://yoursite.com/2016/04/03/%E6%8A%98%E8%85%BE%E7%9A%84%E6%84%9F%E6%83%B3/"/>
+    <id>http://yoursite.com/2016/04/03/折腾的感想/</id>
+    <published>2016-04-03T09:27:45.000Z</published>
+    <updated>2016-04-03T09:15:46.688Z</updated>
     
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My New Post</title>
-    <link href="http://yoursite.com/2016/04/02/My-New-Post/"/>
-    <id>http://yoursite.com/2016/04/02/My-New-Post/</id>
-    <published>2016-04-02T09:52:44.000Z</published>
-    <updated>2016-04-03T05:26:16.838Z</updated>
-    
-    <content type="html">&lt;p&gt;我觉得我应该去当个教授 &lt;/p&gt;
-&lt;p&gt;##excited！&lt;/p&gt;
+    <content type="html">&lt;h1 id=&quot;为什么要折腾&quot;&gt;&lt;a href=&quot;#为什么要折腾&quot; class=&quot;headerlink&quot; title=&quot;为什么要折腾 ?&quot;&gt;&lt;/a&gt;为什么要折腾 ?&lt;/h1&gt;&lt;p&gt;&lt;em&gt;想要有个自己写东西的地方，但是之前的崩掉了，所以浪费了三天时间写这个。&lt;/em&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;收获是什么？&quot;&gt;&lt;a href=&quot;#收获是什么？&quot; class=&quot;headerlink&quot; title=&quot;收获是什么？&quot;&gt;&lt;/a&gt;收获是什么？&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;很多时候我都在思考一个问题，我们每天遇到各种各样的问题，然后我们需要不断google、百度，达到我们解决问题的目的。但是在这个过程中，我们总是能够见到，对于同一个问题，总是有大量错误、copy的博客、文库乃至吊炸天的百度知道，一次又一次减慢了我们解决问题的进度。更加糟糕的是，这种copy是保量不保质的，所以我们总是希望，每当我们google或者百度的时候，都能够最快解决我们需要解决的问题。然而，这貌似是不切实际的，在人人都有权利发表文章的今天，要想禁止这种无意义的抄袭几乎是痴人说梦。清晰意识到这一点之后，我觉得更加有效的方式是每一个发表博客或者活跃于问答网站的人都应该把自己的博客或者解答做到精炼和准确，在某种意义上来说，这是一种义务和责任。&lt;/li&gt;
+&lt;li&gt;第一天，嘴里说着没啥没啥，心情却很抑郁，为什么？ 第一，害怕；第二，教程有些看不懂，心里发憷。第三，他们很多教程都是不对的，都是错的。所以心情很郁闷，不知道该不该继续，怕自己搭不出来，还是买一个吧。&lt;/li&gt;
+&lt;li&gt;第二天，硬着头皮搭建，心中有些明朗了，而且发现教程说的都很清楚，只不过是自己本来就是没有这个基础知识，所以，很容易看不懂；而且版本啊什么的都有些出入，并不是他们写错了。&lt;/li&gt;
+&lt;li&gt;第三天，有了正反馈之后，发现自己的很多问题都是没有仔细看官方文档，所以需要细心，慢慢来，这样&lt;br&gt;的话总会成功的。&lt;h2 id=&quot;感悟是什么？&quot;&gt;&lt;a href=&quot;#感悟是什么？&quot; class=&quot;headerlink&quot; title=&quot;感悟是什么？&quot;&gt;&lt;/a&gt;感悟是什么？&lt;/h2&gt;&lt;/li&gt;
+&lt;li&gt;方向很重要。&lt;/li&gt;
+&lt;li&gt;一定的基础，一定的了解，对信息进行甄别。&lt;/li&gt;
+&lt;li&gt;正反馈很关键，心情一定要愉悦。&lt;h2 id=&quot;最终&quot;&gt;&lt;a href=&quot;#最终&quot; class=&quot;headerlink&quot; title=&quot;最终&quot;&gt;&lt;/a&gt;最终&lt;/h2&gt;我有了我的一个博客。而且只要我的电脑不格式化，github不消失，我就永远不担心它~&lt;/li&gt;
+&lt;/ol&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;我觉得我应该去当个教授 &lt;/p&gt;
-&lt;p&gt;##excited！&lt;/p&gt;
-
+      &lt;h1 id=&quot;为什么要折腾&quot;&gt;&lt;a href=&quot;#为什么要折腾&quot; class=&quot;headerlink&quot; title=&quot;为什么要折腾 ?&quot;&gt;&lt;/a&gt;为什么要折腾 ?&lt;/h1&gt;&lt;p&gt;&lt;em&gt;想要有个自己写东西的地方，但是之前的崩掉了，所以浪费了三天时间写这个。&lt;/em&gt;&lt;br&gt;
     
     </summary>
     
-      <category term="excited" scheme="http://yoursite.com/categories/excited/"/>
+      <category term="Learning" scheme="http://yoursite.com/categories/Learning/"/>
     
     
-      <category term="foo" scheme="http://yoursite.com/tags/foo/"/>
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七种武器</title>
+    <link href="http://yoursite.com/2016/04/03/%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/"/>
+    <id>http://yoursite.com/2016/04/03/七种武器/</id>
+    <published>2016-04-03T07:27:45.000Z</published>
+    <updated>2016-04-03T09:07:58.556Z</updated>
+    
+    <content type="html">&lt;p&gt;第一篇书籍记录。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;七种武器&quot;&gt;&lt;a href=&quot;#七种武器&quot; class=&quot;headerlink&quot; title=&quot;七种武器&quot;&gt;&lt;/a&gt;七种武器&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;七种武器，说的是武器，其实说的是人的性格。&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;古龙的小说总给我一种向上的力量。&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;但是我看完了这一系列的时候陷入了深深的迷茫：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;首先，这就像看电视剧一样，看了一个故事，本身对于思考还有文笔并没有很大的提升，只是有点热血的感觉；&lt;/li&gt;
+&lt;li&gt;其次，这个激励作用需要分时段给，要不然现在把这些激励的看完了咋办？&lt;h2 id=&quot;新的思考：&quot;&gt;&lt;a href=&quot;#新的思考：&quot; class=&quot;headerlink&quot; title=&quot;新的思考：&quot;&gt;&lt;/a&gt;新的思考：&lt;/h2&gt;这些东西就相当于小吃，可以吃一点，但是不要吃太多；&lt;br&gt;促进我把阅读的东西分类，这样的话我就可以找到不同口味的营养均衡的食品，就不会营养不良了。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一篇书籍记录。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Book & Movie" scheme="http://yoursite.com/categories/Book-Movie/"/>
+    
+    
+      <category term="古龙" scheme="http://yoursite.com/tags/%E5%8F%A4%E9%BE%99/"/>
+    
+      <category term="七种武器" scheme="http://yoursite.com/tags/%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/02/hello-world/"/>
-    <id>http://yoursite.com/2016/04/02/hello-world/</id>
+    <link href="http://yoursite.com/2016/04/02/Hello%20World/"/>
+    <id>http://yoursite.com/2016/04/02/Hello World/</id>
     <published>2016-04-02T06:50:22.210Z</published>
-    <updated>2016-04-03T05:13:28.956Z</updated>
+    <updated>2016-04-03T07:23:15.440Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -77,16 +101,42 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
-      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+      <category term="Coding" scheme="http://yoursite.com/categories/Coding/"/>
     
     
-      <category term="PS3" scheme="http://yoursite.com/tags/PS3/"/>
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
     
-      <category term="Games" scheme="http://yoursite.com/tags/Games/"/>
+  </entry>
+  
+  <entry>
+    <title>拯救大兵瑞恩</title>
+    <link href="http://yoursite.com/2016/03/03/%E6%8B%AF%E6%95%91%E5%A4%A7%E5%85%B5%E7%91%9E%E6%81%A9/"/>
+    <id>http://yoursite.com/2016/03/03/拯救大兵瑞恩/</id>
+    <published>2016-03-03T07:27:45.000Z</published>
+    <updated>2016-04-03T08:03:32.561Z</updated>
+    
+    <content type="html">&lt;p&gt;第一篇电影记录。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;首先：&quot;&gt;&lt;a href=&quot;#首先：&quot; class=&quot;headerlink&quot; title=&quot;首先：&quot;&gt;&lt;/a&gt;首先：&lt;/h2&gt;&lt;h3 id=&quot;问问题&quot;&gt;&lt;a href=&quot;#问问题&quot; class=&quot;headerlink&quot; title=&quot;问问题&quot;&gt;&lt;/a&gt;问问题&lt;/h3&gt;&lt;p&gt;1.为了一个人的生命 付出一个队伍的生命，值得么？&lt;br&gt;&lt;br&gt;-1.1.如果已经死亡，还有必要找吗？&lt;br&gt;&lt;br&gt;2.找到瑞恩之后，他为什么不走？&lt;br&gt;&lt;br&gt;-2.1.当时这个队伍有什么别的处理方式吗？&lt;br&gt;&lt;br&gt;3.这个队伍的各个人物都代表了什么？&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回答&quot;&gt;&lt;/a&gt;回答&lt;/h3&gt;&lt;p&gt;1.对于国家，不值得；对于母亲，值得。&lt;br&gt;&lt;br&gt;1.1.很多时候我们都是寻求一种可能。 &lt;br&gt;&lt;br&gt;2.因为对于国家来说，他和其他战士没什么不同。为什么他要离开，而其他人要送命？这是一种平等思想。还有一种就是任务没完成，怎么能轻易离开。&lt;br&gt;&lt;br&gt;2.1.打晕带走？不靠谱。因为他就在这里，而且吃紧，军人的素质让他留了下来。&lt;br&gt;&lt;br&gt;3.大兵瑞恩值得救，他代表了美国的希望；各个兵都是有血有肉，他们也想家，他们也害怕；胆小鬼表示了正常人被战争改变了，这并不是他们生来残忍。&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;瑞恩永远背负着他们的生命。&quot;&gt;&lt;a href=&quot;#瑞恩永远背负着他们的生命。&quot; class=&quot;headerlink&quot; title=&quot;瑞恩永远背负着他们的生命。&quot;&gt;&lt;/a&gt;瑞恩永远背负着他们的生命。&lt;/h3&gt;&lt;h2 id=&quot;其次：&quot;&gt;&lt;a href=&quot;#其次：&quot; class=&quot;headerlink&quot; title=&quot;其次：&quot;&gt;&lt;/a&gt;其次：&lt;/h2&gt;&lt;h3 id=&quot;思考电影人物的代表？&quot;&gt;&lt;a href=&quot;#思考电影人物的代表？&quot; class=&quot;headerlink&quot; title=&quot;思考电影人物的代表？&quot;&gt;&lt;/a&gt;思考电影人物的代表？&lt;/h3&gt;&lt;p&gt;瑞恩–美国的代表 希望的代表&lt;br&gt;&lt;br&gt;队长–权威，正常人变成军人的范例。&lt;br&gt;&lt;br&gt;狙击手–上帝是力量来源，代表正义之战。&lt;br&gt;&lt;br&gt;医生–人道主义，奉献精神。&lt;br&gt;&lt;br&gt;犹太人–被迫害的人群，奋起反抗的人群。&lt;br&gt;&lt;br&gt;胆小鬼–正常的人，在慢慢变成战士。&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;最后：&quot;&gt;&lt;a href=&quot;#最后：&quot; class=&quot;headerlink&quot; title=&quot;最后：&quot;&gt;&lt;/a&gt;最后：&lt;/h2&gt;&lt;h3 id=&quot;思考电影要讲什么？&quot;&gt;&lt;a href=&quot;#思考电影要讲什么？&quot; class=&quot;headerlink&quot; title=&quot;思考电影要讲什么？&quot;&gt;&lt;/a&gt;思考电影要讲什么？&lt;/h3&gt;&lt;p&gt;家与国 &lt;br&gt;&lt;br&gt;正常人和战士&lt;br&gt;&lt;br&gt;正义和邪恶&lt;br&gt;&lt;br&gt;生而平等&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;高中语文带给我的思维方式很有用的！&quot;&gt;&lt;a href=&quot;#高中语文带给我的思维方式很有用的！&quot; class=&quot;headerlink&quot; title=&quot;高中语文带给我的思维方式很有用的！&quot;&gt;&lt;/a&gt;高中语文带给我的思维方式很有用的！&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一篇电影记录。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Book & Movie" scheme="http://yoursite.com/categories/Book-Movie/"/>
+    
+    
+      <category term="拯救大兵瑞恩" scheme="http://yoursite.com/tags/%E6%8B%AF%E6%95%91%E5%A4%A7%E5%85%B5%E7%91%9E%E6%81%A9/"/>
     
   </entry>
   
