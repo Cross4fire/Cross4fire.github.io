@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-08T13:02:48.748Z</updated>
+  <updated>2016-04-08T13:15:27.948Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,52 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2016/04/08/Summary%20#1stWeek%20in%20April/"/>
-    <id>http://yoursite.com/2016/04/08/Summary #1stWeek in April/</id>
-    <published>2016-04-08T12:48:56.181Z</published>
-    <updated>2016-04-08T13:02:48.748Z</updated>
+    <title>4月第1周总结</title>
+    <link href="http://yoursite.com/2016/04/08/Summary_1st_April/"/>
+    <id>http://yoursite.com/2016/04/08/Summary_1st_April/</id>
+    <published>2016-04-08T13:36:45.000Z</published>
+    <updated>2016-04-08T13:15:27.948Z</updated>
     
-    <content type="html">&lt;hr&gt;
-&lt;p&gt;title: 4�µ�1���ܽ�&lt;br&gt;date: 2016-04-08 21:36:45&lt;br&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;summary&lt;br&gt;tags:&lt;/li&gt;
-&lt;li&gt;��˼&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;��1ƪ���ܽᡣ&lt;/p&gt;
+    <content type="html">&lt;p&gt;第1篇周总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
-&lt;p&gt;��ͼ�����ӻ������ᡪ��&lt;br&gt;����û�п���&lt;br&gt;�ң���־Ҫ�������⻪���ˡ�&lt;br&gt;���죬�����������ֻ���&lt;br&gt;����3����ѧ�⡣&lt;br&gt;����Ӣ�ﵥ�ʣ�ǰһ�¡�&lt;br&gt;����ȫû���ɡ�&lt;br&gt;Ȼ������������&lt;br&gt;������ȥBDAʵϰ��&lt;br&gt;��ð�������Ƕ������ϵ��Ǹ����⣬&lt;br&gt;��ΪǱ��ʶ���������Է��ȣ���ɢ��ð���Ǻǡ�&lt;br&gt;���ӱ�¿���ˡ�&lt;br&gt;���ܲ��������濴�飬����Χ�塣&lt;br&gt;���ڸ�Цô��&lt;/p&gt;
-&lt;p&gt;��Ȼ�����顣�����Ǹ���&lt;br&gt;�о����ܲ�������Ҫ����־��ȥ�����ֻ�����&lt;br&gt;��Ҫ�Լ�ת����̬������������&lt;br&gt;�ܶ�ִ���Ϳ��Խ�����&lt;/p&gt;
-&lt;p&gt;Ȼ����˵һ�£��Լ���˼����&lt;br&gt;Ϊ�δ�����һ�����⣬һ����ѧϰʱ�䣬һ����ר�ġ�&lt;br&gt;�������ϵ����Ǽ����ˣ�&lt;br&gt;��Ϊ�������Ĳ�һ����&lt;br&gt;��Ϊ����û��ǿ�ҵ�������&lt;br&gt;��Ϊ���᲻��ѧϰ��&lt;br&gt;�·��ص��˸��У������˺�ҹ�����ҵĹ�â��&lt;/p&gt;
-&lt;p&gt;�ٴΣ���Щ��������������&lt;br&gt;�뵽���У��뵽�ҡ�&lt;br&gt;�����Լ��ܺ��£����е���Щ�˵�ȷ�����Һܲ������ļ��䡣&lt;br&gt;����ʵû�з��¡�&lt;br&gt;��ð�ĵڶ����ε����������ҳ��ܣ������˲˵���&lt;br&gt;�����ˡ�&lt;br&gt;���Ǿ����Լ��Ǹ�С���ӡ�&lt;br&gt;�����Լ�Ӧ�ó����ˣ�����ȴ�������������󰮡�&lt;/p&gt;
-&lt;p&gt;����&lt;br&gt;��ʶ���˾ͺã�����̫���ᡣ&lt;/p&gt;
-&lt;p&gt;������Сë¿���������������ܶ��ʡ�&lt;br&gt;������������ʾ��һҪ���֣�������Ҫ��&lt;br&gt;�����������ޡ�����Ҫ��ȡ�ᡣ&lt;br&gt;��ʱ��ʱ�͸о� �����ظ���&lt;/p&gt;
-&lt;p&gt;���α���ȼ���ǿ�����֪���ϵ�&lt;a href=&quot;https://www.zhihu.com/question/33971854&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;���ش�&lt;/a&gt;��&lt;br&gt;���뵽�˲������뵽�˺ܶ�ĬĬŬ�����ˡ�&lt;br&gt;���Ƕ�����ô��&lt;br&gt;��ҲҪŬ������Ҳ��Ŭ����&lt;/p&gt;
-&lt;p&gt;�ⲻ������ѡ���⻪������ô��&lt;br&gt;�����õ��Լ���&lt;br&gt;ѡ�������ߵ�·��&lt;/p&gt;
-&lt;p&gt;ȥ�������ꡣ&lt;br&gt;��ϣ�����¸ҵĵ����������ı��ܡ�&lt;br&gt;�ͽ��ϡ�&lt;/p&gt;
+&lt;p&gt;从图书馆逃回了宿舍——&lt;br&gt;对你没有看错&lt;br&gt;我，立志要考北大光华的人。&lt;br&gt;今天，基本都在玩手机。&lt;br&gt;做了3道数学题。&lt;br&gt;背了英语单词，前一章。&lt;br&gt;任务全没完成。&lt;br&gt;然后还想着妹子&lt;br&gt;还想着去BDA实习；&lt;br&gt;感冒还不忘记锻炼身上的那个肌肉，&lt;br&gt;因为潜意识里那样可以发热，驱散感冒，呵呵。&lt;br&gt;脑子被驴踢了。&lt;br&gt;不跑步，不认真看书，不下围棋。&lt;br&gt;你在搞笑么？&lt;/p&gt;
+&lt;p&gt;当然看了书。戒烟那个。&lt;br&gt;感觉，很不错。不要用意志力去左右手互博。&lt;br&gt;而要自己转变心态，放下屠刀。&lt;br&gt;很多执念就可以解决。&lt;/p&gt;
+&lt;p&gt;然后，说一下，自己的思考。&lt;br&gt;为何大家做一样的题，一样的学习时间，一样的专心。&lt;br&gt;最后考上的是那几个人？&lt;br&gt;因为，理解的不一样。&lt;br&gt;因为，有没有强烈的欲望。&lt;br&gt;因为，会不会学习。&lt;br&gt;仿佛回到了高中，看到了黑夜给予我的光芒。&lt;/p&gt;
+&lt;p&gt;再次，这些天的情绪波动。&lt;br&gt;想到高中，想到家。&lt;br&gt;觉得自己很害怕，高中的那些人的确给了我很不愉快的记忆。&lt;br&gt;我其实没有放下。&lt;br&gt;感冒的第二天梦到了叔叔和我吵架，拿起了菜刀。&lt;br&gt;吓醒了。&lt;br&gt;还是觉得自己是个小孩子。&lt;br&gt;觉得自己应该长大了，但是却总是在心里渴求爱。&lt;/p&gt;
+&lt;p&gt;哈哈&lt;br&gt;认识到了就好，不必太纠结。&lt;/p&gt;
+&lt;p&gt;见到了小毛驴，发现他的生活很多彩。&lt;br&gt;他给我两点启示：一要快乐，这很重要。&lt;br&gt;二，精力有限。所以要有取舍。&lt;br&gt;当时顿时就感觉 如释重负。&lt;/p&gt;
+&lt;p&gt;这次被点燃，是看到了知乎上的&lt;a href=&quot;https://www.zhihu.com/question/33971854&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;神回答&lt;/a&gt;。&lt;br&gt;我想到了博宽，想到了很多默默努力的人。&lt;br&gt;你们都还好么？&lt;br&gt;我也要努力，我也在努力。&lt;/p&gt;
+&lt;p&gt;这不正是你选择光华的理由么？&lt;br&gt;做最好的自己。&lt;br&gt;选择最难走的路。&lt;/p&gt;
+&lt;p&gt;去做吧少年。&lt;br&gt;我希望你勇敢的跌倒，放肆的奔跑。&lt;br&gt;就酱紫。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: 4�µ�1���ܽ�&lt;br&gt;date: 2016-04-08 21:36:45&lt;br&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;summary&lt;br&gt;tags:&lt;/li&gt;
-&lt;li&gt;��˼&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;��1ƪ���ܽᡣ&lt;/p&gt;
+      &lt;p&gt;第1篇周总结。&lt;/p&gt;
     
     </summary>
     
+      <category term="summary" scheme="http://yoursite.com/categories/summary/"/>
+    
+    
+      <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
     
   </entry>
   
   <entry>
     <title>这本书能让你戒烟</title>
-    <link href="http://yoursite.com/2016/04/08/Book_This%20book%20help%20quit%20smoke/"/>
-    <id>http://yoursite.com/2016/04/08/Book_This book help quit smoke/</id>
+    <link href="http://yoursite.com/2016/04/08/Book_ThisBooHelpQuitSmoke/"/>
+    <id>http://yoursite.com/2016/04/08/Book_ThisBooHelpQuitSmoke/</id>
     <published>2016-04-08T11:47:45.000Z</published>
     <updated>2016-04-08T12:46:22.988Z</updated>
     
@@ -118,11 +108,11 @@
       <category term="Book" scheme="http://yoursite.com/categories/Book/"/>
     
     
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
       <category term="戒烟" scheme="http://yoursite.com/tags/%E6%88%92%E7%83%9F/"/>
     
       <category term="自控" scheme="http://yoursite.com/tags/%E8%87%AA%E6%8E%A7/"/>
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
     
       <category term="写作方法" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
     
@@ -134,8 +124,8 @@
   
   <entry>
     <title>读书要分类</title>
-    <link href="http://yoursite.com/2016/04/04/Good_classification%20of%20books/"/>
-    <id>http://yoursite.com/2016/04/04/Good_classification of books/</id>
+    <link href="http://yoursite.com/2016/04/04/Good_ClassificationofBooks/"/>
+    <id>http://yoursite.com/2016/04/04/Good_ClassificationofBooks/</id>
     <published>2016-04-04T06:27:45.000Z</published>
     <updated>2016-04-04T09:50:12.613Z</updated>
     
@@ -186,8 +176,8 @@
   
   <entry>
     <title>打通任督二脉^_^</title>
-    <link href="http://yoursite.com/2016/04/04/Good_classical%20learning%20theory%20in%20Zhihu/"/>
-    <id>http://yoursite.com/2016/04/04/Good_classical learning theory in Zhihu/</id>
+    <link href="http://yoursite.com/2016/04/04/Good_ClassicalLearningTheoryinZhihu/"/>
+    <id>http://yoursite.com/2016/04/04/Good_ClassicalLearningTheoryinZhihu/</id>
     <published>2016-04-04T05:47:45.000Z</published>
     <updated>2016-04-04T09:47:00.260Z</updated>
     
@@ -273,8 +263,8 @@
   
   <entry>
     <title>自控力差的人如何自救</title>
-    <link href="http://yoursite.com/2016/04/04/Good_save%20yourself%20when%20u%20r%20less%20will%20/"/>
-    <id>http://yoursite.com/2016/04/04/Good_save yourself when u r less will /</id>
+    <link href="http://yoursite.com/2016/04/04/Good_SaveYourselfWhenURLessWill%20/"/>
+    <id>http://yoursite.com/2016/04/04/Good_SaveYourselfWhenURLessWill /</id>
     <published>2016-04-04T03:36:45.000Z</published>
     <updated>2016-04-04T03:15:06.214Z</updated>
     
@@ -374,10 +364,10 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2016/04/03/Summary%20#March/"/>
-    <id>http://yoursite.com/2016/04/03/Summary #March/</id>
+    <link href="http://yoursite.com/2016/04/03/Summary_March/"/>
+    <id>http://yoursite.com/2016/04/03/Summary_March/</id>
     <published>2016-04-03T13:28:05.984Z</published>
-    <updated>2016-04-08T13:02:59.176Z</updated>
+    <updated>2016-04-08T13:14:00.546Z</updated>
     
     <content type="html">&lt;hr&gt;
 &lt;p&gt;title: 3月总结&lt;br&gt;date: 2016-04-03 21:36:45&lt;br&gt;categories:&lt;/p&gt;
@@ -451,8 +441,8 @@
   
   <entry>
     <title>生命在于折腾</title>
-    <link href="http://yoursite.com/2016/04/03/Feeling_the%20feeling%20of%20building%20a%20blog/"/>
-    <id>http://yoursite.com/2016/04/03/Feeling_the feeling of building a blog/</id>
+    <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/"/>
+    <id>http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/</id>
     <published>2016-04-03T09:27:45.000Z</published>
     <updated>2016-04-03T09:15:46.688Z</updated>
     
@@ -477,16 +467,16 @@
       <category term="Learning" scheme="http://yoursite.com/categories/Learning/"/>
     
     
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>七种武器</title>
-    <link href="http://yoursite.com/2016/04/03/Book_Seven%20arms/"/>
-    <id>http://yoursite.com/2016/04/03/Book_Seven arms/</id>
+    <link href="http://yoursite.com/2016/04/03/Book_SevenArms/"/>
+    <id>http://yoursite.com/2016/04/03/Book_SevenArms/</id>
     <published>2016-04-03T07:27:45.000Z</published>
     <updated>2016-04-08T12:46:12.542Z</updated>
     
@@ -516,8 +506,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/02/Hello%20World/"/>
-    <id>http://yoursite.com/2016/04/02/Hello World/</id>
+    <link href="http://yoursite.com/2016/04/02/HelloWorld/"/>
+    <id>http://yoursite.com/2016/04/02/HelloWorld/</id>
     <published>2016-04-02T06:50:22.210Z</published>
     <updated>2016-04-03T07:23:15.440Z</updated>
     
@@ -548,8 +538,8 @@
   
   <entry>
     <title>拯救大兵瑞恩</title>
-    <link href="http://yoursite.com/2016/03/03/Movie_Saving%20Private%20Ryan/"/>
-    <id>http://yoursite.com/2016/03/03/Movie_Saving Private Ryan/</id>
+    <link href="http://yoursite.com/2016/03/03/Movie_SavingPrivateRyan/"/>
+    <id>http://yoursite.com/2016/03/03/Movie_SavingPrivateRyan/</id>
     <published>2016-03-03T07:27:45.000Z</published>
     <updated>2016-04-08T12:46:07.541Z</updated>
     
