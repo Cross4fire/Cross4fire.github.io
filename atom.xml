@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-08T13:15:27.948Z</updated>
+  <updated>2016-04-09T05:36:27.175Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/04/08/Summary_1st_April/"/>
     <id>http://yoursite.com/2016/04/08/Summary_1st_April/</id>
     <published>2016-04-08T13:36:45.000Z</published>
-    <updated>2016-04-08T13:15:27.948Z</updated>
+    <updated>2016-04-09T05:36:27.175Z</updated>
     
     <content type="html">&lt;p&gt;第1篇周总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
@@ -41,7 +41,7 @@
     
     </summary>
     
-      <category term="summary" scheme="http://yoursite.com/categories/summary/"/>
+      <category term="Summary" scheme="http://yoursite.com/categories/Summary/"/>
     
     
       <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
@@ -108,11 +108,11 @@
       <category term="Book" scheme="http://yoursite.com/categories/Book/"/>
     
     
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
       <category term="戒烟" scheme="http://yoursite.com/tags/%E6%88%92%E7%83%9F/"/>
     
       <category term="自控" scheme="http://yoursite.com/tags/%E8%87%AA%E6%8E%A7/"/>
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
     
       <category term="写作方法" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
     
@@ -127,7 +127,7 @@
     <link href="http://yoursite.com/2016/04/04/Summary_March/"/>
     <id>http://yoursite.com/2016/04/04/Summary_March/</id>
     <published>2016-04-04T12:36:45.000Z</published>
-    <updated>2016-04-08T14:42:24.654Z</updated>
+    <updated>2016-04-09T05:36:18.446Z</updated>
     
     <content type="html">&lt;p&gt;第一篇月总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
@@ -182,7 +182,7 @@
     
     </summary>
     
-      <category term="summary" scheme="http://yoursite.com/categories/summary/"/>
+      <category term="Summary" scheme="http://yoursite.com/categories/Summary/"/>
     
     
       <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
@@ -246,7 +246,7 @@
     <link href="http://yoursite.com/2016/04/04/Good_ClassicalLearningTheoryinZhihu/"/>
     <id>http://yoursite.com/2016/04/04/Good_ClassicalLearningTheoryinZhihu/</id>
     <published>2016-04-04T05:47:45.000Z</published>
-    <updated>2016-04-04T09:47:00.260Z</updated>
+    <updated>2016-04-09T05:36:22.855Z</updated>
     
     <content type="html">&lt;p&gt;知乎上的一篇神作，感觉写得很棒，论证过程思维分析暂时感觉无懈可击，重要的是读完之后感觉有收获。我们上了大学，遇到很多问题没有反思，可悲。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -319,7 +319,7 @@
     
     </summary>
     
-      <category term="learning" scheme="http://yoursite.com/categories/learning/"/>
+      <category term="Learning" scheme="http://yoursite.com/categories/Learning/"/>
     
     
       <category term="认识自我" scheme="http://yoursite.com/tags/%E8%AE%A4%E8%AF%86%E8%87%AA%E6%88%91/"/>
@@ -333,7 +333,7 @@
     <link href="http://yoursite.com/2016/04/04/Good_SaveYourselfWhenURLessWill%20/"/>
     <id>http://yoursite.com/2016/04/04/Good_SaveYourselfWhenURLessWill /</id>
     <published>2016-04-04T03:36:45.000Z</published>
-    <updated>2016-04-04T03:15:06.214Z</updated>
+    <updated>2016-04-09T05:36:20.659Z</updated>
     
     <content type="html">&lt;p&gt;很多人觉得自己计划完不成，拖延，生活中养成种种恶习的根源在于自制力不强，以为增强了自制力，一切问题就能迎刃而解——这个想法是错的，自制力并不是解决这些问题的关键。&lt;/p&gt;
 &lt;p&gt;那什么才是呢？诸位稍安勿燥，这个后面自然会讲到，但在此之前，且听我讲一个哈佛学霸的故事。&lt;/p&gt;
@@ -420,7 +420,7 @@
     
     </summary>
     
-      <category term="summary" scheme="http://yoursite.com/categories/summary/"/>
+      <category term="Learning" scheme="http://yoursite.com/categories/Learning/"/>
     
     
       <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
@@ -457,9 +457,9 @@
       <category term="Learning" scheme="http://yoursite.com/categories/Learning/"/>
     
     
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
   </entry>
   
