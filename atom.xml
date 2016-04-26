@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-25T14:58:09.057Z</updated>
+  <updated>2016-04-26T14:25:59.166Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,12 +17,28 @@
   
   <entry>
     <title>考研想法记录/update</title>
-    <link href="http://yoursite.com/2016/04/25/Feeling_Feelingof425/"/>
-    <id>http://yoursite.com/2016/04/25/Feeling_Feelingof425/</id>
+    <link href="http://yoursite.com/2016/04/25/Feeling_FeelingofKaoyan(updateByDay)/"/>
+    <id>http://yoursite.com/2016/04/25/Feeling_FeelingofKaoyan(updateByDay)/</id>
     <published>2016-04-25T14:27:45.000Z</published>
-    <updated>2016-04-25T14:58:09.057Z</updated>
+    <updated>2016-04-26T14:25:59.166Z</updated>
     
-    <content type="html">&lt;p&gt;每天更新&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;1.前期铺摊子，后期收摊子。摊子要铺大，要收牢。&lt;br&gt;2.在考研中感受自己身上的毛病，尽全力去改正，不要到了30岁改不过来。&lt;br&gt;3.考研的心态：有意瞄准，无意击发。&lt;br&gt;4.认真、专注是高效的基础。&lt;br&gt;5.时间是不够用的，要反思每天的时间去哪里了。&lt;br&gt;/4.25&lt;/p&gt;
+    <content type="html">&lt;p&gt;每天更新&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有时候，很多感觉可以在一起很长时间，一起促进的妹子都有了男朋友。&lt;/li&gt;
+&lt;li&gt;有时候，很渴望爱情；有时候，就在一天之内经历了相识恋爱的想象过程，又被现实重重摔在地上，进而体验了失恋的感觉。&lt;/li&gt;
+&lt;li&gt;考研的过程中，诱惑很多，这个也是一种，要经得起诱惑，慢慢提升自己，总会有一个她在等着你。&lt;/li&gt;
+&lt;li&gt;不要把手机带在身边，不要回宿舍看电脑。&lt;/li&gt;
+&lt;li&gt;要学会止损，要及时调整自己的情绪。&lt;/li&gt;
+&lt;li&gt;永远不要觉得你不会撸管，然后挑战一下自己。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;/4.26&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前期铺摊子，后期收摊子。摊子要铺大，要收牢。&lt;/li&gt;
+&lt;li&gt;在考研中感受自己身上的毛病，尽全力去改正，不要到了30岁改不过来。&lt;/li&gt;
+&lt;li&gt;考研的心态：有意瞄准，无意击发。&lt;/li&gt;
+&lt;li&gt;认真、专注是高效的基础。&lt;/li&gt;
+&lt;li&gt;时间是不够用的，要反思每天的时间去哪里了。&lt;br&gt;/4.25&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     
     <summary type="html">
@@ -314,11 +330,11 @@
       <category term="Book" scheme="http://yoursite.com/categories/Book/"/>
     
     
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
       <category term="戒烟" scheme="http://yoursite.com/tags/%E6%88%92%E7%83%9F/"/>
     
       <category term="自控" scheme="http://yoursite.com/tags/%E8%87%AA%E6%8E%A7/"/>
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
     
       <category term="写作方法" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
     
@@ -655,9 +671,9 @@
       <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
     
     
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
   </entry>
   
@@ -689,9 +705,9 @@
       <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
     
     
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
   </entry>
   
