@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-29T15:36:59.824Z</updated>
+  <updated>2016-04-29T15:40:55.799Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,11 @@
     <link href="http://yoursite.com/2016/04/29/Summary_4th_April&MonthSummary%20/"/>
     <id>http://yoursite.com/2016/04/29/Summary_4th_April&MonthSummary /</id>
     <published>2016-04-29T15:36:45.000Z</published>
-    <updated>2016-04-29T15:36:59.824Z</updated>
+    <updated>2016-04-29T15:40:55.799Z</updated>
     
     <content type="html">&lt;p&gt;第4篇周总结，兼月总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
+&lt;p&gt;男神镇楼。&lt;br&gt;&lt;img src=&quot;/images/lch.jpg&quot;&gt;&lt;/p&gt;
 &lt;h1 id=&quot;周总结&quot;&gt;&lt;a href=&quot;#周总结&quot; class=&quot;headerlink&quot; title=&quot;周总结&quot;&gt;&lt;/a&gt;周总结&lt;/h1&gt;&lt;p&gt;&lt;em&gt;一天一天来说，先分后总。&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;周一&quot;&gt;&lt;a href=&quot;#周一&quot; class=&quot;headerlink&quot; title=&quot;周一&quot;&gt;&lt;/a&gt;周一&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;为了大新闻，起得很早，然后就去大活看英语书，我觉得时间就应该这么用。然后我就觉得按照高中的时间来，一节课四十分分钟，有目标的完成一件事情。然后这样充满干劲，一定可以的。&lt;/li&gt;
@@ -389,11 +390,11 @@
       <category term="Book" scheme="http://yoursite.com/categories/Book/"/>
     
     
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
       <category term="戒烟" scheme="http://yoursite.com/tags/%E6%88%92%E7%83%9F/"/>
     
       <category term="自控" scheme="http://yoursite.com/tags/%E8%87%AA%E6%8E%A7/"/>
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
     
       <category term="写作方法" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
     
@@ -711,32 +712,6 @@
   </entry>
   
   <entry>
-    <title>拿着电脑和手机去自习就是shit</title>
-    <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/"/>
-    <id>http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/</id>
-    <published>2016-04-03T09:27:45.000Z</published>
-    <updated>2016-04-24T14:33:37.634Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;a href=&quot;#慎独是解除腐败的根本方法&quot; class=&quot;headerlink&quot; title=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;/a&gt;慎独是解除腐败的根本方法&lt;/h1&gt;&lt;h2 id=&quot;学习如果被打断，很难复原&quot;&gt;&lt;a href=&quot;#学习如果被打断，很难复原&quot; class=&quot;headerlink&quot; title=&quot;学习如果被打断，很难复原&quot;&gt;&lt;/a&gt;学习如果被打断，很难复原&lt;/h2&gt;&lt;p&gt; 恩就是学不下去了&lt;br&gt; 各种学不下去&lt;br&gt; 有点想放弃。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;
-    
-    </summary>
-    
-      <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
-    
-    
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
-  </entry>
-  
-  <entry>
     <title>生命在于折腾</title>
     <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/"/>
     <id>http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/</id>
@@ -764,9 +739,35 @@
       <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
     
     
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
       <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
+  </entry>
+  
+  <entry>
+    <title>拿着电脑和手机去自习就是shit</title>
+    <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/"/>
+    <id>http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/</id>
+    <published>2016-04-03T09:27:45.000Z</published>
+    <updated>2016-04-24T14:33:37.634Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;a href=&quot;#慎独是解除腐败的根本方法&quot; class=&quot;headerlink&quot; title=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;/a&gt;慎独是解除腐败的根本方法&lt;/h1&gt;&lt;h2 id=&quot;学习如果被打断，很难复原&quot;&gt;&lt;a href=&quot;#学习如果被打断，很难复原&quot; class=&quot;headerlink&quot; title=&quot;学习如果被打断，很难复原&quot;&gt;&lt;/a&gt;学习如果被打断，很难复原&lt;/h2&gt;&lt;p&gt; 恩就是学不下去了&lt;br&gt; 各种学不下去&lt;br&gt; 有点想放弃。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
+    
+    
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
     
   </entry>
   
