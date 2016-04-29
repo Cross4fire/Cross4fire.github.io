@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-29T15:40:55.799Z</updated>
+  <updated>2016-04-29T15:44:44.441Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>4月第3周总结</title>
+    <title>4月第4周总结及月总结</title>
     <link href="http://yoursite.com/2016/04/29/Summary_4th_April&MonthSummary%20/"/>
     <id>http://yoursite.com/2016/04/29/Summary_4th_April&MonthSummary /</id>
     <published>2016-04-29T15:36:45.000Z</published>
-    <updated>2016-04-29T15:40:55.799Z</updated>
+    <updated>2016-04-29T15:44:44.441Z</updated>
     
     <content type="html">&lt;p&gt;第4篇周总结，兼月总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
@@ -712,6 +712,32 @@
   </entry>
   
   <entry>
+    <title>拿着电脑和手机去自习就是shit</title>
+    <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/"/>
+    <id>http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/</id>
+    <published>2016-04-03T09:27:45.000Z</published>
+    <updated>2016-04-24T14:33:37.634Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;a href=&quot;#慎独是解除腐败的根本方法&quot; class=&quot;headerlink&quot; title=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;/a&gt;慎独是解除腐败的根本方法&lt;/h1&gt;&lt;h2 id=&quot;学习如果被打断，很难复原&quot;&gt;&lt;a href=&quot;#学习如果被打断，很难复原&quot; class=&quot;headerlink&quot; title=&quot;学习如果被打断，很难复原&quot;&gt;&lt;/a&gt;学习如果被打断，很难复原&lt;/h2&gt;&lt;p&gt; 恩就是学不下去了&lt;br&gt; 各种学不下去&lt;br&gt; 有点想放弃。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
+    
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
     <title>生命在于折腾</title>
     <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/"/>
     <id>http://yoursite.com/2016/04/03/Feeling_FeelingofBlog/</id>
@@ -733,32 +759,6 @@
     <summary type="html">
     
       &lt;h1 id=&quot;为什么要折腾&quot;&gt;&lt;a href=&quot;#为什么要折腾&quot; class=&quot;headerlink&quot; title=&quot;为什么要折腾 ?&quot;&gt;&lt;/a&gt;为什么要折腾 ?&lt;/h1&gt;&lt;p&gt;&lt;em&gt;想要有个自己写东西的地方，但是之前的崩掉了，所以浪费了三天时间写这个。&lt;/em&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
-    
-    
-      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
-    
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>拿着电脑和手机去自习就是shit</title>
-    <link href="http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/"/>
-    <id>http://yoursite.com/2016/04/03/Feeling_FeelingofFailure/</id>
-    <published>2016-04-03T09:27:45.000Z</published>
-    <updated>2016-04-24T14:33:37.634Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;a href=&quot;#慎独是解除腐败的根本方法&quot; class=&quot;headerlink&quot; title=&quot;慎独是解除腐败的根本方法&quot;&gt;&lt;/a&gt;慎独是解除腐败的根本方法&lt;/h1&gt;&lt;h2 id=&quot;学习如果被打断，很难复原&quot;&gt;&lt;a href=&quot;#学习如果被打断，很难复原&quot; class=&quot;headerlink&quot; title=&quot;学习如果被打断，很难复原&quot;&gt;&lt;/a&gt;学习如果被打断，很难复原&lt;/h2&gt;&lt;p&gt; 恩就是学不下去了&lt;br&gt; 各种学不下去&lt;br&gt; 有点想放弃。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;富有是腐败之必要条件&quot;&gt;&lt;a href=&quot;#富有是腐败之必要条件&quot; class=&quot;headerlink&quot; title=&quot;富有是腐败之必要条件&quot;&gt;&lt;/a&gt;富有是腐败之必要条件&lt;/h1&gt;
     
     </summary>
     
