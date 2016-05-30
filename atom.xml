@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-19T15:09:09.793Z</updated>
+  <updated>2016-05-30T15:46:37.807Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,71 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>5月30 波动</title>
+    <link href="http://yoursite.com/2016/05/30/Feeling_Sth2Say/"/>
+    <id>http://yoursite.com/2016/05/30/Feeling_Sth2Say/</id>
+    <published>2016-05-30T15:27:45.000Z</published>
+    <updated>2016-05-30T15:46:37.807Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;为何波动&quot;&gt;&lt;a href=&quot;#为何波动&quot; class=&quot;headerlink&quot; title=&quot;为何波动 ?&quot;&gt;&lt;/a&gt;为何波动 ?&lt;/h1&gt;&lt;p&gt;主要是xx同学，当然了，茆诗松也是很重要的。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;感觉感情还是很稚嫩，&lt;br&gt;感觉统计还是得好好学。&lt;br&gt;感觉还是得好好发展。&lt;/p&gt;
+&lt;p&gt;感觉和熊宝宝说了不该说的话？&lt;br&gt;感觉以后和熊宝宝不能正常交流了？&lt;/p&gt;
+&lt;p&gt;哎，顺其自然，心放宽点。&lt;/p&gt;
+&lt;p&gt;晚安。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;为何波动&quot;&gt;&lt;a href=&quot;#为何波动&quot; class=&quot;headerlink&quot; title=&quot;为何波动 ?&quot;&gt;&lt;/a&gt;为何波动 ?&lt;/h1&gt;&lt;p&gt;主要是xx同学，当然了，茆诗松也是很重要的。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
+    
+    
+      <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5月第4周总结</title>
+    <link href="http://yoursite.com/2016/05/27/Summary_4th_May/"/>
+    <id>http://yoursite.com/2016/05/27/Summary_4th_May/</id>
+    <published>2016-05-27T13:36:45.000Z</published>
+    <updated>2016-05-27T15:21:09.044Z</updated>
+    
+    <content type="html">&lt;p&gt;五月第4篇周总结。貌似第3篇没有写==。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
+&lt;p&gt;额，感觉时间过的好快。&lt;/p&gt;
+&lt;p&gt;周四听说越神每天都是12点睡，6点起，不玩游戏，各方面搞得风生水起，感觉差距好远。&lt;/p&gt;
+&lt;p&gt;哎，接纳自己的过去。更何况，成长是一个慢慢经历的过程呀。&lt;/p&gt;
+&lt;p&gt;想到和xx小朋友的未来，发现自己还不够优秀呀，还有那天送鸡腿，哈哈，感觉生活是个美妙的过程。&lt;/p&gt;
+&lt;p&gt;我看范里安就已经死去活来了。&lt;br&gt;统计13章已经看不懂了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数学，高数周末总结，然后就这一摊子事，别的没有。下周来汤老师的概率论。&lt;/li&gt;
+&lt;li&gt;微观，总结范里安，这是个体力活，慢慢来吧，实在不行就扔掉。&lt;/li&gt;
+&lt;li&gt;统计，总结一下这几天看的，然后就看茆诗松哈哈哈哈。&lt;/li&gt;
+&lt;li&gt;英语，按部就班。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;没什么说的，想写点漫无目的的毛泽东文字，但是现在发现也没有时间了，晚安。&lt;/p&gt;
+&lt;p&gt;生活总是不紧不慢，日子总是在慢慢流走。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;五月第4篇周总结。貌似第3篇没有写==。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Summary" scheme="http://yoursite.com/categories/Summary/"/>
+    
+    
+      <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="时间管理" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>生态系统的平衡</title>
@@ -1635,68 +1700,6 @@
       <category term="华尔街之狼" scheme="http://yoursite.com/tags/%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B9%8B%E7%8B%BC/"/>
     
       <category term="金融" scheme="http://yoursite.com/tags/%E9%87%91%E8%9E%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4月第2周总结</title>
-    <link href="http://yoursite.com/2016/04/17/Summary_2nd_April/"/>
-    <id>http://yoursite.com/2016/04/17/Summary_2nd_April/</id>
-    <published>2016-04-17T07:36:45.000Z</published>
-    <updated>2016-04-17T07:44:13.989Z</updated>
-    
-    <content type="html">&lt;p&gt;第2篇周总结。&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
-&lt;h1 id=&quot;事&quot;&gt;&lt;a href=&quot;#事&quot; class=&quot;headerlink&quot; title=&quot;事&quot;&gt;&lt;/a&gt;事&lt;/h1&gt;&lt;p&gt;这周主要干了两件事情，第一件：回家；第二件：和李迎吃饭，重新制定计划。&lt;br&gt;回家真的是放松的一种方式，很任性的回家了，我觉得对缓解压力有较大好处，虽然在家里也就是在床上躺着，出去买衣服，和妈妈聊天；算是没有了很多忧虑，而且思考了两个问题：为何考光华，核心竞争力是什么呢？&lt;br&gt;为何考研，为何考光华，是自己坚持下去的关键。我就是想去更好的平台去，我觉得只有光华配得上我，而且现在都需要硕士学历；而且我愿意为了这个相对的好来提升自己。&lt;br&gt;那么我的核心竞争力，就是我突围的关键。有毅力是前提，主要是有想法，可以思考一些别人想不到的东西。&lt;br&gt;和李迎聊天我感觉其实大家都一样，要心态好，要扎扎实实地去复习。一个阶段干一个阶段的事情，做好规划。&lt;br&gt;其实猴子后来也给我说了，前期不要太用力，否则后期跑不动了。&lt;/p&gt;
-&lt;h1 id=&quot;反思&quot;&gt;&lt;a href=&quot;#反思&quot; class=&quot;headerlink&quot; title=&quot;反思&quot;&gt;&lt;/a&gt;反思&lt;/h1&gt;&lt;p&gt;心态很重要，我发现我很多问题都是心态的问题，平和，不要怕，篮球也是如此，很多事情都是如此。&lt;br&gt;制定计划，心如止水。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;莫道真理无穷，进一步有一步的欣喜。&lt;br&gt;                 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ——胡适&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;第2篇周总结。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Summary" scheme="http://yoursite.com/categories/Summary/"/>
-    
-    
-      <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4月第1周总结</title>
-    <link href="http://yoursite.com/2016/04/08/Summary_1st_April/"/>
-    <id>http://yoursite.com/2016/04/08/Summary_1st_April/</id>
-    <published>2016-04-08T13:36:45.000Z</published>
-    <updated>2016-04-09T05:36:27.175Z</updated>
-    
-    <content type="html">&lt;p&gt;第1篇周总结。&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
-&lt;p&gt;从图书馆逃回了宿舍——&lt;br&gt;对你没有看错&lt;br&gt;我，立志要考北大光华的人。&lt;br&gt;今天，基本都在玩手机。&lt;br&gt;做了3道数学题。&lt;br&gt;背了英语单词，前一章。&lt;br&gt;任务全没完成。&lt;br&gt;然后还想着妹子&lt;br&gt;还想着去BDA实习；&lt;br&gt;感冒还不忘记锻炼身上的那个肌肉，&lt;br&gt;因为潜意识里那样可以发热，驱散感冒，呵呵。&lt;br&gt;脑子被驴踢了。&lt;br&gt;不跑步，不认真看书，不下围棋。&lt;br&gt;你在搞笑么？&lt;/p&gt;
-&lt;p&gt;当然看了书。戒烟那个。&lt;br&gt;感觉，很不错。不要用意志力去左右手互博。&lt;br&gt;而要自己转变心态，放下屠刀。&lt;br&gt;很多执念就可以解决。&lt;/p&gt;
-&lt;p&gt;然后，说一下，自己的思考。&lt;br&gt;为何大家做一样的题，一样的学习时间，一样的专心。&lt;br&gt;最后考上的是那几个人？&lt;br&gt;因为，理解的不一样。&lt;br&gt;因为，有没有强烈的欲望。&lt;br&gt;因为，会不会学习。&lt;br&gt;仿佛回到了高中，看到了黑夜给予我的光芒。&lt;/p&gt;
-&lt;p&gt;再次，这些天的情绪波动。&lt;br&gt;想到高中，想到家。&lt;br&gt;觉得自己很害怕，高中的那些人的确给了我很不愉快的记忆。&lt;br&gt;我其实没有放下。&lt;br&gt;感冒的第二天梦到了叔叔和我吵架，拿起了菜刀。&lt;br&gt;吓醒了。&lt;br&gt;还是觉得自己是个小孩子。&lt;br&gt;觉得自己应该长大了，但是却总是在心里渴求爱。&lt;/p&gt;
-&lt;p&gt;哈哈&lt;br&gt;认识到了就好，不必太纠结。&lt;/p&gt;
-&lt;p&gt;见到了小毛驴，发现他的生活很多彩。&lt;br&gt;他给我两点启示：一要快乐，这很重要。&lt;br&gt;二，精力有限。所以要有取舍。&lt;br&gt;当时顿时就感觉 如释重负。&lt;/p&gt;
-&lt;p&gt;这次被点燃，是看到了知乎上的&lt;a href=&quot;https://www.zhihu.com/question/33971854&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;神回答&lt;/a&gt;。&lt;br&gt;我想到了博宽，想到了很多默默努力的人。&lt;br&gt;你们都还好么？&lt;br&gt;我也要努力，我也在努力。&lt;/p&gt;
-&lt;p&gt;这不正是你选择光华的理由么？&lt;br&gt;做最好的自己。&lt;br&gt;选择最难走的路。&lt;/p&gt;
-&lt;p&gt;去做吧少年。&lt;br&gt;我希望你勇敢的跌倒，放肆的奔跑。&lt;br&gt;就酱紫。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;第1篇周总结。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Summary" scheme="http://yoursite.com/categories/Summary/"/>
-    
-    
-      <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
     
   </entry>
   
