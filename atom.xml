@@ -167,11 +167,12 @@
     <link href="http://yoursite.com/2016/06/21/Summary_3rd_June/"/>
     <id>http://yoursite.com/2016/06/21/Summary_3rd_June/</id>
     <published>2016-06-21T14:34:48.165Z</published>
-    <updated>2017-01-01T07:52:30.246Z</updated>
+    <updated>2017-01-01T10:46:24.535Z</updated>
     
     <content type="html">&lt;hr&gt;
-&lt;p&gt;title: 6月第3周总结&lt;br&gt;date: 2016-06-21 22:36:45&lt;br&gt;categories: Summary&lt;br&gt;tags:&lt;/p&gt;
+&lt;p&gt;title: 6月第3周总结&lt;br&gt;date: 2016-06-21 22:36:45&lt;br&gt;categories:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Summary&lt;br&gt;tags:&lt;/li&gt;
 &lt;li&gt;反思&lt;/li&gt;
 &lt;li&gt;心态&lt;/li&gt;
 &lt;/ul&gt;
@@ -190,8 +191,9 @@
     <summary type="html">
     
       &lt;hr&gt;
-&lt;p&gt;title: 6月第3周总结&lt;br&gt;date: 2016-06-21 22:36:45&lt;br&gt;categories: Summary&lt;br&gt;tags:&lt;/p&gt;
+&lt;p&gt;title: 6月第3周总结&lt;br&gt;date: 2016-06-21 22:36:45&lt;br&gt;categories:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Summary&lt;br&gt;tags:&lt;/li&gt;
 &lt;li&gt;反思&lt;/li&gt;
 &lt;li&gt;心态&lt;/li&gt;
 &lt;/ul&gt;
@@ -250,7 +252,7 @@
     <link href="http://yoursite.com/2016/06/12/Summary_2nd_June/"/>
     <id>http://yoursite.com/2016/06/12/Summary_2nd_June/</id>
     <published>2016-06-12T12:32:45.000Z</published>
-    <updated>2017-01-01T07:52:04.186Z</updated>
+    <updated>2017-01-01T10:45:49.339Z</updated>
     
     <content type="html">&lt;p&gt;6月第2篇周总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
@@ -360,7 +362,7 @@
     <link href="http://yoursite.com/2016/06/05/Summary_1st_June/"/>
     <id>http://yoursite.com/2016/06/05/Summary_1st_June/</id>
     <published>2016-06-05T05:32:45.000Z</published>
-    <updated>2017-01-01T07:51:34.398Z</updated>
+    <updated>2017-01-01T10:45:03.943Z</updated>
     
     <content type="html">&lt;p&gt;6月第1篇周总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
@@ -1550,7 +1552,7 @@
     <link href="http://yoursite.com/2016/05/14/Summary_2nd_May/"/>
     <id>http://yoursite.com/2016/05/14/Summary_2nd_May/</id>
     <published>2016-05-14T13:36:45.000Z</published>
-    <updated>2017-01-01T07:52:12.084Z</updated>
+    <updated>2017-01-01T10:45:59.888Z</updated>
     
     <content type="html">&lt;p&gt;五月第2篇周总结。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;   
