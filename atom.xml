@@ -386,9 +386,9 @@
       <category term="Feeling" scheme="http://yoursite.com/categories/Feeling/"/>
     
     
-      <category term="目标" scheme="http://yoursite.com/tags/%E7%9B%AE%E6%A0%87/"/>
-    
       <category term="低调" scheme="http://yoursite.com/tags/%E4%BD%8E%E8%B0%83/"/>
+    
+      <category term="目标" scheme="http://yoursite.com/tags/%E7%9B%AE%E6%A0%87/"/>
     
   </entry>
   
@@ -1715,9 +1715,9 @@
     
       <category term="心态" scheme="http://yoursite.com/tags/%E5%BF%83%E6%80%81/"/>
     
-      <category term="投行" scheme="http://yoursite.com/tags/%E6%8A%95%E8%A1%8C/"/>
-    
       <category term="目标" scheme="http://yoursite.com/tags/%E7%9B%AE%E6%A0%87/"/>
+    
+      <category term="投行" scheme="http://yoursite.com/tags/%E6%8A%95%E8%A1%8C/"/>
     
   </entry>
   
